@@ -10,7 +10,7 @@
 |-------|---------|
 | Title | Habibi Come |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | April 23, 2026 |
+| Lyric Writing Date | April 24, 2026 |
 | License | [View License](./LICENSE.md) |
 | Artist | Abu Sayed |
 
@@ -18,7 +18,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا نور العين في ظلام الليل
+> تعالي بقربي قلبي يميل
+> روحي بتناديك في كل مكان
+> حبك هو دفء الأمان
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
