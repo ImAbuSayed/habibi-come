@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 24, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/habibi-come/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Official Music Licensing for Habibi Come](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
