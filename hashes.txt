@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Habibi Come
+
+This log tracks the cryptographic history and versioning for the song **Habibi Come** (habibi-come).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T12:02:00.542386 | `v1` | `a08efc6ad2c9ff726c75ae9dde978ac6dffe4518a316d8f9f98217ca8902c6d4` | `3cb90d454738b241fde69c9e069a509da3d58bc442a79d3883103b7332b0fe8f` | `2026-05-09_habibi-come-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
